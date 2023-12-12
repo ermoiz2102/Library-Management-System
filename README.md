@@ -1,4 +1,5 @@
 Library Management System
+
 This project is a Library Management System built using Spring and SQL. It includes various layers such as entities, exception classes, Repository, Service, and Controller layers. The system utilizes bidirectional mapping, Swagger for API documentation, sending emails, and transactional handling.
 
 Features
